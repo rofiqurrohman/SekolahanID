@@ -1,0 +1,11 @@
+@import "./_variable.scss";
+@import "./../../Views/Style/Home.scss";
+@import "./../../Views/Style/Search.scss";
+@import "./../../Views/Style/About.scss";
+@import "./../../Component/Style/Navbar.scss";
+
+* {
+  font-family: Roboto, sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

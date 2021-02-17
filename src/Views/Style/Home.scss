@@ -1,0 +1,10 @@
+.home {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  .btn {
+    background-color: var(--btn-color);
+    color: white;
+    font-size: 14px;
+    padding: 10px 15px;
+  }
+}

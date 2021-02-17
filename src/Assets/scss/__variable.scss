@@ -1,0 +1,20 @@
+.light-theme {
+  transition: all 0.5s;
+  --bg-nav-color: #0d6efd;
+  --text-nav-color: #faf6f6;
+  --bg-color: #f9f9f9;
+  --bg-select-color: #ffffff;
+  --text-select-color: #0f0f0f;
+  --text-color: #0d6efd;
+  --btn-color: #0d6efd;
+}
+.dark-theme {
+  transition: all 0.5s;
+  --bg-nav-color: #2b2a2a;
+  --text-nav-color: white;
+  --bg-color: #212121;
+  --bg-select-color: #252525;
+  --text-select-color: #ffffff;
+  --text-color: rgb(216, 213, 213);
+  --btn-color: rgb(77, 76, 76);
+}
